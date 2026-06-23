@@ -14,6 +14,9 @@ Plan, organize, collaborate, and track progress seamlessly with an intuitive and
 </div>
 
 ---
+<img width="949" height="422" alt="image" src="https://github.com/user-attachments/assets/4db68f29-8570-4045-8855-6a0250bfc0df" />
+<img width="949" height="422" alt="Capture1" src="https://github.com/user-attachments/assets/4b61583b-6102-4cc4-bca2-9eaabe5aef22" />
+
 
 ## 📖 Overview
 
